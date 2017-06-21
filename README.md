@@ -4,7 +4,7 @@ The Anubis official hoff prank
 ## Why
 At AnubisNetworks Engineering, when a person would leave its station unlocked even if for a short period of time, someone else would load its screensaver or wallpaper or even a browser tab with some pretty unexpected imagery. The kind of stuff that would embarrass you if your boss saw it. After testing a lot of stuff, somehow, David Hasselhoff memorabilia won. As a result, it moved into verb mode with sentences like: "You have been hoffed!".
 
-On my goodbye lunch, I was offered a QR Code fridge magnet that, once followed would lead to an website that kind of turned the prank into an art form. This is the half four code experiment.
+On my goodbye lunch, I was offered a QR Code fridge magnet that, once followed would lead to an website that kind of turned the prank into an art form. This is the half hour code experiment.
  
 ## Disclaimer
 
