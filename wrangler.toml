@@ -1,0 +1,8 @@
+name = "hoff-worker"
+type = "webpack"
+account_id = "fake"
+workers_dev = false
+route = "hoff.malcata.eu/*"
+zone_id = "fake"
+site = { bucket = "./src" }
+
